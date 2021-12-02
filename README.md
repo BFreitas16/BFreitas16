@@ -28,9 +28,16 @@ I’m currently working in a company doing its risk assessment, fixing security 
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&logo=spring&logoColor=white)
 
 ### Others
+![Cisco](https://img.shields.io/badge/-Cisco-4479A1?logo=cisco)
 ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-a?logoColor=white&logo=Docker&color=2496ED)
-![Cisco](https://img.shields.io/badge/-Cisco-4479A1?logo=cisco)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-a?logoColor=white&logo=Amazon%20AWS&color=232F3E)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-4479A1?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%232496ED.svg?&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform%20-%237f00ff.svg?&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible%20-%23000000.svg?&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/-Vagrant-4479A1?logo=vagrant)
+![Jinja2](https://img.shields.io/badge/Jinja%202%20-%23DD0031.svg?&logo=jinja&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20-%23FFCA28.svg?&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-a?logoColor=white&logo=Amazon%20AWS&color=232F3E)
 ![Android](https://img.shields.io/badge/-Android-a?logoColor=white&logo=Android&color=3DDC84)
